@@ -1,0 +1,30 @@
+[
+  {
+    "name": "IBM-AI-Engineering-Professional-Certificate",
+    "description": "",
+    "github_link": "https://github.com/pdhawanjewar07/All_Certifications/tree/main/IBM-AI-Engineering-Professional-Certificate-main",
+    "verify_link": "https://coursera.org/verify/professional-cert/VT4HSJFEGWUM",
+    "image_link": ""
+  },
+  {
+    "name": "IBM-Data-Science-Professional-Certificate",
+    "description": "",
+    "github_link": "https://github.com/pdhawanjewar07/All_Certifications/tree/main/IBM-Data-Science-Professional-Certificate-main",
+    "verify_link": "",
+    "image_link": ""
+  },
+  {
+    "name": "IBM-Full-Stack-Software-Developer-Professional-Certificate",
+    "description": "",
+    "github_link": "https://github.com/pdhawanjewar07/All_Certifications/tree/main/IBM-Full-Stack-Software-Developer-Professional-Certificate-main",
+    "verify_link": "https://coursera.org/verify/professional-cert/9H55YYSF4UZD",
+    "image_link": ""
+  },
+  {
+    "name": "Generative-Adversarial-Networks-GANs-Specialization",
+    "description": "",
+    "github_link": "https://github.com/pdhawanjewar07/All_Certifications/tree/main/Generative-Adversarial-Networks-GANs-Specialization-main",
+    "verify_link": "https://coursera.org/verify/specialization/YE6EJKN2AENT",
+    "image_link": ""
+  }
+]
